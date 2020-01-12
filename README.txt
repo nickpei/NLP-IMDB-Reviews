@@ -1,4 +1,4 @@
-This folder contains all the files for S.Rosa Group 273A Project: 
+This repsoitory contains all the files for 273A Project - IMDB Reviews: 
 
 1. "COMPSCI 273A IMDB Analysis.ipynb/pdf" - Jupyter code file and its pdf
 
@@ -6,4 +6,5 @@ This folder contains all the files for S.Rosa Group 273A Project:
 
 3. "text_preprocessing.py" - Preprocessing code for reviews
 
-4. "data_train_wostopNpunc.txt" - Preprocessed training data
+*4. "data_train_wostopNpunc.txt" - Preprocessed training data
+*This file exceeds the maximum size that can be uploaded. It can be obtained by running "text_preprocessing.py" on the review text files.  
