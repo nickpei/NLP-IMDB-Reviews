@@ -8,7 +8,7 @@ This repository contains all the files for 273A Project - IMDB Reviews:
 
 3. "text_preprocessing.py" - Preprocessing code for reviews
 
-4*. "data_train_wostopNpunc.txt" - Preprocessed training data
+ 4*. "data_train_wostopNpunc.txt" - Preprocessed training data
 
 *This file exceeds the maximum size that can be uploaded. It can be obtained by running "text_preprocessing.py" on the review text files.
 
